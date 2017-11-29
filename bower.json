@@ -1,0 +1,29 @@
+{
+  "name": "WinNative2React",
+  "version": "0.0.1",
+  "description": "Windows Native Widgets two React Components",
+  "main": "dist/main.js",
+  "homepage": "https://github.com/Patrick-W-McMahon/WinNative2React",
+  "authors": [
+    "Patrick W. McMahon"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
